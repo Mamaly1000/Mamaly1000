@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="359" src="https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png"  />
+  <img width="100%" height="400" src="https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png"  />
 </div>
 
 ###
